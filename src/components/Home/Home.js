@@ -61,7 +61,11 @@ function Home() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
+<<<<<<< HEAD
                   href="https://github.com/zakharovmaksym00-hub"
+=======
+                  href="https://github.com/soumyajit4419"
+>>>>>>> f281740cbc041460d5eaa0de6110139e4dfe4ea4
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -71,7 +75,11 @@ function Home() {
               </li>
               <li className="social-icons">
                 <a
+<<<<<<< HEAD
                   href="https://twitter.com/zakharovmaksym00-hub"
+=======
+                  href="https://twitter.com/Soumyajit4419"
+>>>>>>> f281740cbc041460d5eaa0de6110139e4dfe4ea4
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -81,7 +89,11 @@ function Home() {
               </li>
               <li className="social-icons">
                 <a
+<<<<<<< HEAD
                   href="https://www.linkedin.com/in/zakharovmaksym00-hub/"
+=======
+                  href="https://www.linkedin.com/in/soumyajit4419/"
+>>>>>>> f281740cbc041460d5eaa0de6110139e4dfe4ea4
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -91,7 +103,11 @@ function Home() {
               </li>
               <li className="social-icons">
                 <a
+<<<<<<< HEAD
                   href="https://www.instagram.com/zakharovmaksym00-hub"
+=======
+                  href="https://www.instagram.com/soumyajit4419"
+>>>>>>> f281740cbc041460d5eaa0de6110139e4dfe4ea4
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
